@@ -12,6 +12,16 @@ By the end of this project you will:
 
 Our intern Dan is working on this killer Movie Quotes App that returns a random movie quote. Right now all it does is render a blank screen in the web browser. Fork the repository found here and help Dan fix it.  
 
+## How To Run
+
+1. On top right of the pplication_assignment repository in GitHub, click "Fork" to make a copy of the repo to your GitHub account
+2. In your forked version of the repo, click "Clone or download" and copy it onto the clipboard
+3. On your computer, run the command "git clone [the url you copied in your forked GitHub repo]"
+4. Navigate into the root directory you cloned the repo into
+5. In the terminal type the command "npm install" to install the dependencies
+6. In the terminal type the command "node index.js" to start the Express server
+7. Navigate to http://localhost:3000/ on your browser and refresh the browser to see a different random movie quote 
+
 ## Specifications
 
 The finished project:
