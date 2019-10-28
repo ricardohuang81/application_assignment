@@ -14,7 +14,7 @@ Our intern Dan is working on this killer Movie Quotes App that returns a random 
 
 ## How To Run
 
-1. On top right of the pplication_assignment repository in GitHub, click "Fork" to make a copy of the repo to your GitHub account
+1. On top right of the application_assignment repository in GitHub, click "Fork" to make a copy of the repo to your GitHub account
 2. In your forked version of the repo, click "Clone or download" and copy it onto the clipboard
 3. On your computer, run the command "git clone [the url you copied in your forked GitHub repo]"
 4. Navigate into the root directory you cloned the repo into
