@@ -18,7 +18,7 @@ Our intern Dan is working on this killer Movie Quotes App that returns a random 
 2. In your forked version of the repo, click "Clone or download" and copy it with the clipboard
 3. On your computer, run the command "git clone [the url you copied in your forked GitHub repo]"
 4. Navigate into the root directory you cloned the repo into
----
+---{r}
 5. In the terminal type the command "npm install" to install the dependencies
 6. In the terminal type the command "node index.js" to start the Express server
 ---
