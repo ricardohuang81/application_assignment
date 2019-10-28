@@ -18,8 +18,8 @@ Our intern Dan is working on this killer Movie Quotes App that returns a random 
 2. In your forked version of the repo, click "Clone or download" and copy it with the clipboard
 3. On your computer, run the command "git clone [the url you copied in your forked GitHub repo]"
 4. Navigate into the root directory you cloned the repo into
-5. In the terminal type the command ```{r}npm install``` to install the dependencies
-6. In the terminal type the command ```{r}node index.js``` to start the Express server
+5. In the terminal type the command ```npm install``` to install the dependencies
+6. In the terminal type the command ```node index.js``` to start the Express server
 7. Navigate to http://localhost:3000/ on your browser and refresh the browser to see a different random movie quote 
 
 ## Specifications
